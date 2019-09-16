@@ -26,6 +26,7 @@
         <child id="1145195647825954802" name="words" index="356sEH" />
       </concept>
       <concept id="1145195647825954788" name="com.dslfoundry.plaintextgen.structure.TextgenText" flags="ng" index="356sEV">
+        <property id="1032254326875915298" name="encoding" index="1p7WBP" />
         <property id="5407518469085446424" name="ext" index="3Le9LX" />
         <child id="1145195647826100986" name="content" index="356KY_" />
       </concept>
@@ -360,6 +361,129 @@
           <node concept="2xteQQ" id="3HMKjsyliKR" role="2xoikU" />
         </node>
         <node concept="2EixSi" id="3HMKjsyl1Od" role="2EinRH" />
+      </node>
+    </node>
+  </node>
+  <node concept="356sEV" id="1K$y1mTDVpS">
+    <property role="TrG5h" value="Windows1252" />
+    <property role="3Le9LX" value=".txt" />
+    <property role="1p7WBP" value="windows-1252" />
+    <node concept="356WMU" id="1K$y1mTDVpT" role="356KY_">
+      <node concept="356sEK" id="1K$y1mTDVpU" role="383Ya9">
+        <node concept="356sEF" id="1K$y1mTDVq0" role="356sEH">
+          <property role="TrG5h" value="Here is some text with latin characters from wikipedia" />
+        </node>
+        <node concept="2EixSi" id="1K$y1mTDVpW" role="2EinRH" />
+      </node>
+      <node concept="356sEK" id="1K$y1mTDVuf" role="383Ya9">
+        <node concept="356sEF" id="1K$y1mTDVug" role="356sEH">
+          <property role="TrG5h" value="https://de.wikipedia.org/wiki/Windows-1252" />
+        </node>
+        <node concept="2EixSi" id="1K$y1mTDVuh" role="2EinRH" />
+      </node>
+      <node concept="356WMU" id="1K$y1mTDVsf" role="383Ya9">
+        <node concept="356sEK" id="1K$y1mTDVsg" role="383Ya9">
+          <node concept="356sEF" id="1K$y1mTDVsh" role="356sEH">
+            <property role="TrG5h" value="Code    …0    …1    …2    …3    …4    …5    …6    …7    …8    …9    …A    …B    …C    …D    …E    …F " />
+          </node>
+          <node concept="2EixSi" id="1K$y1mTDVsj" role="2EinRH" />
+        </node>
+        <node concept="356sEK" id="1K$y1mTDVsk" role="383Ya9">
+          <node concept="356sEF" id="1K$y1mTDVsl" role="356sEH">
+            <property role="TrG5h" value="0…      NUL   SOH   STX   ETX   EOT   ENQ   ACK   BEL   BS    HT    LF    VT    FF    CR    SO    SI " />
+          </node>
+          <node concept="2EixSi" id="1K$y1mTDVsn" role="2EinRH" />
+        </node>
+        <node concept="356sEK" id="1K$y1mTDVso" role="383Ya9">
+          <node concept="356sEF" id="1K$y1mTDVsp" role="356sEH">
+            <property role="TrG5h" value="1…      DLE   DC1   DC2   DC3   DC4   NAK   SYN   ETB   CAN   EM    SUB   ESC   FS    GS    RS    US " />
+          </node>
+          <node concept="2EixSi" id="1K$y1mTDVsr" role="2EinRH" />
+        </node>
+        <node concept="356sEK" id="1K$y1mTDVss" role="383Ya9">
+          <node concept="356sEF" id="1K$y1mTDVst" role="356sEH">
+            <property role="TrG5h" value="2…      SP    !     &quot;     #     $     %     &amp;     '     (     )     *     +     ,     -     .     /  " />
+          </node>
+          <node concept="2EixSi" id="1K$y1mTDVsv" role="2EinRH" />
+        </node>
+        <node concept="356sEK" id="1K$y1mTDVsw" role="383Ya9">
+          <node concept="356sEF" id="1K$y1mTDVsx" role="356sEH">
+            <property role="TrG5h" value="3…      0     1     2     3     4     5     6     7     8     9     :     ;     &lt;     =     &gt;     ?  " />
+          </node>
+          <node concept="2EixSi" id="1K$y1mTDVsz" role="2EinRH" />
+        </node>
+        <node concept="356sEK" id="1K$y1mTDVs$" role="383Ya9">
+          <node concept="356sEF" id="1K$y1mTDVs_" role="356sEH">
+            <property role="TrG5h" value="4…      @     A     B     C     D     E     F     G     H     I     J     K     L     M     N     O  " />
+          </node>
+          <node concept="2EixSi" id="1K$y1mTDVsB" role="2EinRH" />
+        </node>
+        <node concept="356sEK" id="1K$y1mTDVsC" role="383Ya9">
+          <node concept="356sEF" id="1K$y1mTDVsD" role="356sEH">
+            <property role="TrG5h" value="5…      P     Q     R     S     T     U     V     W     X     Y     Z     [     \     ]     ^     _  " />
+          </node>
+          <node concept="2EixSi" id="1K$y1mTDVsF" role="2EinRH" />
+        </node>
+        <node concept="356sEK" id="1K$y1mTDVsG" role="383Ya9">
+          <node concept="356sEF" id="1K$y1mTDVsH" role="356sEH">
+            <property role="TrG5h" value="6…      `     a     b     c     d     e     f     g     h     i     j     k     l     m     n     o  " />
+          </node>
+          <node concept="2EixSi" id="1K$y1mTDVsJ" role="2EinRH" />
+        </node>
+        <node concept="356sEK" id="1K$y1mTDVsK" role="383Ya9">
+          <node concept="356sEF" id="1K$y1mTDVsL" role="356sEH">
+            <property role="TrG5h" value="7…      p     q     r     s     t     u     v     w     x     y     z     {     |     }     ~     DEL" />
+          </node>
+          <node concept="2EixSi" id="1K$y1mTDVsN" role="2EinRH" />
+        </node>
+        <node concept="356sEK" id="1K$y1mTDVsO" role="383Ya9">
+          <node concept="356sEF" id="1K$y1mTDVsP" role="356sEH">
+            <property role="TrG5h" value="8…      €           ‚     ƒ     „     …     †     ‡     ˆ     ‰     Š     ‹     Œ           Ž        " />
+          </node>
+          <node concept="2EixSi" id="1K$y1mTDVsR" role="2EinRH" />
+        </node>
+        <node concept="356sEK" id="1K$y1mTDVsS" role="383Ya9">
+          <node concept="356sEF" id="1K$y1mTDVsT" role="356sEH">
+            <property role="TrG5h" value="9…            ‘     ’     “     ”     •     –     —     ˜     ™     š     ›     œ           ž     Ÿ  " />
+          </node>
+          <node concept="2EixSi" id="1K$y1mTDVsV" role="2EinRH" />
+        </node>
+        <node concept="356sEK" id="1K$y1mTDVsW" role="383Ya9">
+          <node concept="356sEF" id="1K$y1mTDVsX" role="356sEH">
+            <property role="TrG5h" value="A…      NBSP  ¡     ¢     £     ¤     ¥     ¦     §     ¨     ©     ª     «     ¬     SHY   ®     ¯  " />
+          </node>
+          <node concept="2EixSi" id="1K$y1mTDVsZ" role="2EinRH" />
+        </node>
+        <node concept="356sEK" id="1K$y1mTDVt0" role="383Ya9">
+          <node concept="356sEF" id="1K$y1mTDVt1" role="356sEH">
+            <property role="TrG5h" value="B…      °     ±     ²     ³     ´     µ     ¶     ·     ¸     ¹     º     »     ¼     ½     ¾     ¿  " />
+          </node>
+          <node concept="2EixSi" id="1K$y1mTDVt3" role="2EinRH" />
+        </node>
+        <node concept="356sEK" id="1K$y1mTDVt4" role="383Ya9">
+          <node concept="356sEF" id="1K$y1mTDVt5" role="356sEH">
+            <property role="TrG5h" value="C…      À     Á     Â     Ã     Ä     Å     Æ     Ç     È     É     Ê     Ë     Ì     Í     Î     Ï  " />
+          </node>
+          <node concept="2EixSi" id="1K$y1mTDVt7" role="2EinRH" />
+        </node>
+        <node concept="356sEK" id="1K$y1mTDVt8" role="383Ya9">
+          <node concept="356sEF" id="1K$y1mTDVt9" role="356sEH">
+            <property role="TrG5h" value="D…      Ð     Ñ     Ò     Ó     Ô     Õ     Ö     ×     Ø     Ù     Ú     Û     Ü     Ý     Þ     ß  " />
+          </node>
+          <node concept="2EixSi" id="1K$y1mTDVtb" role="2EinRH" />
+        </node>
+        <node concept="356sEK" id="1K$y1mTDVtc" role="383Ya9">
+          <node concept="356sEF" id="1K$y1mTDVtd" role="356sEH">
+            <property role="TrG5h" value="E…      à     á     â     ã     ä     å     æ     ç     è     é     ê     ë     ì     í     î     ï  " />
+          </node>
+          <node concept="2EixSi" id="1K$y1mTDVtf" role="2EinRH" />
+        </node>
+        <node concept="356sEK" id="1K$y1mTDVtg" role="383Ya9">
+          <node concept="356sEF" id="1K$y1mTDVth" role="356sEH">
+            <property role="TrG5h" value="F…      ð     ñ     ò     ó     ô     õ     ö     ÷     ø     ù     ú     û     ü     ý     þ     ÿ  " />
+          </node>
+          <node concept="2EixSi" id="1K$y1mTDVtj" role="2EinRH" />
+        </node>
       </node>
     </node>
   </node>
